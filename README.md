@@ -1,2 +1,2 @@
 # papajohns-order
-Order pizza from Papa John's
+Order pizza delivery from Papa John's
